@@ -28,8 +28,3 @@ Outputs :
 <p align="center">
   <img src="/img/io.png" alt="Chip IO" width="900" height="auto"/>
 </p>
-
-## TOP RTL Diagram
-<p align="center">
-  <img src="/img/top_RTL.png" alt="Top RTL"/>
-</p>
