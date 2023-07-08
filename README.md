@@ -1,11 +1,4 @@
-# STARS 2023 Final Design Project
-
-## MatrixMonSTARS
-* Emmanuel Chang
-* Kai Ze Ee
-* Stuti Rastogi
-* Yash Singh
-* Vishnu Lagudu
+# Calculator
 
 ## Memory Calculator
 This calculator has the ability to add or subtract two two digit decimal numbers.
@@ -39,21 +32,4 @@ Outputs :
 ## TOP RTL Diagram
 <p align="center">
   <img src="/img/top_RTL.png" alt="Top RTL"/>
-</p>
-
-## Supporting Equipment
-**Required Equipments**:
-  - Common cathode 7 segment displays: 2
-  - LED (red)                        : 1
-  - LED (blue)                       : 1
-  - Push buttons                     : 10
-  - 10kΩ resistors                   : 10
-  - 150Ω resistor                    : 16
-  - Board by efabless                : 1
-  - Wires of various lengths
-  - Breadboard                       : 1
-
-**Example**:
-<p align="center">
-  <img src="/img/example.png" alt="example" width="500" height="auto"/>
 </p>
